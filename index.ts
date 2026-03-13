@@ -5,7 +5,7 @@ const express = require("express");
 
 const app = express();
 
-const name = "Akash De Silva";
+const name = "Achini Subasinghe";
 const batch = 24.1;
 
 app.get('/api/Hi',(req:void,res:any)=>{
